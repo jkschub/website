@@ -52,19 +52,6 @@ h2 {
   width: 125px;
 }
 
-.btn {
-  color: #FCFCF9;
-  background: #D54C4A;
-  padding: 15px 30px;
-  margin: 40px 0;
-  border-radius: 25px;
-  text-transform: uppercase;
-}
-
-.btn:hover {
-  background-color: #BD3737;
-}
-
 ul.nav {
   margin: 75px 25px 0 0;
   list-style: none;
